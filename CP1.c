@@ -6,7 +6,7 @@
 **     Component : Init_COP
 **     Version   : Component 01.038, Driver 01.05, CPU db: 3.00.020
 **     Compiler  : CodeWarrior HCS12X C Compiler
-**     Date/Time : 2019-07-11, ¿ÀÈÄ 3:23
+**     Date/Time : 2019-07-11, Â¿Ã€ÃˆÃ„ 3:23
 **     Abstract  :
 **          This file implements the Computer Operating Properly (COP)
 **          module initialization according to the Peripheral 
@@ -37,6 +37,7 @@
 /* MODULE CP1. */
 
 #include "CP1.h"
+//
 
 
 /*
